@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CompositionPathInterop.Tests/CompositionPathInterop.Tests.csproj" />
+  <Project Path="CompositionPathInterop\CompositionPathInterop.csproj" />
+</Solution>
